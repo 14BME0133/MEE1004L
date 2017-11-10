@@ -21,7 +21,7 @@ FLUID MECHNiCS ONLINE RECORD
 ---
 
 # Also, for reference you may inspect the lab manual softcopy itself below:
-[Download .pdf](https://github.com/14BME0133/MEE1004/MEE1004-LAB-MANUAL.pdf)
+[Download .pdf](https://14BME0133.github.io//MEE1004/MEE1004-LAB-MANUAL.pdf)
 
 <br>
 <hr>
