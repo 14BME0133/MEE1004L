@@ -25,4 +25,5 @@ FLUID MECHNiCS ONLINE RECORD
 
 ## 14BME0133.github.io - Fluid Mechanics 
 
-#### MEE1004 Theory+Lab+Project
+#### MEE1004 [Theory](https://14bme0133.github.io/MEE1004/)+[Lab](https://14bme0133.github.io/MEE1004L/)
+<14bme0133/>
