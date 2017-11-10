@@ -4,7 +4,7 @@ FLUID MECHNiCS ONLINE RECORD
 
 ---
 
-## Links to download .pdf Digital Assignment No. 1 and 2 (softcopy)
+## Links to Experiments No. 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. (softcopy)
 
 # [Download .pdf](EX_01.pdf) Experiment No. 01
 # [Download .pdf](EX_02.pdf) Experiment No. 02
@@ -20,8 +20,10 @@ FLUID MECHNiCS ONLINE RECORD
 
 ---
 
-# Also, for reference you may inspect the lab manual softcopy itself below:
-[Download .pdf](https://14BME0133.github.io//MEE1004/MEE1004-LAB-MANUAL.pdf)
+# Also, for reference:
+### You may inspect the lab manual softcopy itself below:
+
+[Download .pdf](https://14BME0133.github.io//MEE1004/MEE1004-LAB-MANUAL.pdf) Complete Fluid Mechanices MEE 1004 Lab Manual cum Record. Raw, templated .pdf.
 
 <br>
 <hr>
